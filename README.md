@@ -12,4 +12,4 @@ Find accident patterns (time, location, cause) and suggest prevention measures.
 - highest risk state/highway
 
 ## Dashboard
-[View Tableau Dashboard] (http://127.0.0.1:5500/index.html) 
+[View Tableau Dashboard] (https://satyamkumarsharma012-eng.github.io/road-accidents-analysis-and-prevention/) 
